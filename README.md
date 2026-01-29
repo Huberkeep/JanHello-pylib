@@ -12,11 +12,4 @@ This is my first python lib!
       + firstbars.py
   + README.md
   + LISENCE        
-## introduce
-A lib of Python,include:
-+ easy TUI(ASCII Dialog Box) 
-(TUI like this↓)
 
-┏─━┄┅┈┉┓
-|Hello World |
-┖╌╍─━┄┅┉┛
