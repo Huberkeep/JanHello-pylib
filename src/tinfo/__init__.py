@@ -24,39 +24,11 @@ class confirm:
       elif osdr == options1:
         eval(1_handling)
       else:
-        print("\"",r,"\"","is not a option!")  
+        return "\"",r,"\"","is not a option!"
     else:
-      print("\"",r,"\"","is not a option!")
-class useless:
-  POTATOS = 0 #POTATOES → POTATOS,because ↓ 
-  #"useless"
-  null = None#very useless,null → none
-  def veryuselessfunction(🤖):
-    print("veryuselessfunction❗️")
-    for i in range(10):
-      time.sleep(180)
-      print(f"get:{i + 1}🔥🥔")
-    print("✅ 10🔥🥔,You can eat them now.")
-    eatornoeat = input("EAT POTATOS(10/",POTATOS,"YES OR NO)")
-    if eatornoeat == "YES":
-      for uselessvar in range(10):
-        time.sleep(90)
-        POTATOS -= 1
-      print("ALL:EATED")
-    elif eatornoeat == "NO":
-      return "🥔🚯"
-      PlantR = input("Are You Wanna Plant it?(Yes or No)")
-      if PlantR == "YES":
-        nowYes = time.time()
-        for nousevar in range(3):
-          time.sleep(1080)
-          POTATOS += 1
-          print(POTATOS + 1,"POTATOS")
-        print("💥:🥔✅")  
-      
-      elif PlantR == "NO":
-        print("😊")
-    else:
-      print("📄❌:🥔")
-      POTATOS == null
-    
+      return "\"",r,"\"","is not a option!"
+  def uselessexc(func,error):
+    try:
+      eval(func)
+    except * as error:
+      return error
