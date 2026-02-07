@@ -2,10 +2,13 @@
 requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "stroll-1-py"
-version = "0.1.1"
+name = "PyMiscell"
+version = "1"
 authors = [
     {name = "Huberkeep", email = "HuberkeepInGithub@hotmail.com"}
 ]
-description = "A Easy PyLib of Miscellaneous"
+description = "PyMisell"
 readme = "README.md"
+dependencies = [time]
+[project.urls]
+Homepage = "https://github.com/huberkeep/PyMiscell"
