@@ -1,7 +1,6 @@
 # PyMiscell
-![vision](https://img.shields.io/badge/vision-0.1.0-{green})
-![author](https://img.shields.io/badge/Author-Huberkeep-blue)
+![vision](https://img.shields.io/badge/vision-1-{green})
 ![README](https://img.shields.io/badge/README-README.md-yellow)
-A Python Lib,For Miscell Storage.
+PyMiscell
 
 
